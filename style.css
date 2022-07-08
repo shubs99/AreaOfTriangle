@@ -1,0 +1,59 @@
+.heading{
+    
+    text-align: center;
+    width: 100%;
+    margin-top: 90px;
+    color: black;
+   
+}
+body{
+    background-color: orange;
+}
+
+.part1{
+    margin: 5px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 95%;
+    margin-top: 30px;
+    color: black;
+}
+
+.part2{
+    margin: 5px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 30px;
+   
+ 
+    
+}
+
+.btn-area{
+    width: 10%; 
+    height: 0.8cm;
+   background-color: purple;
+   color: bisque;
+ 
+   
+}
+
+
+
+.box{
+    margin:5px
+}
+
+#output-area{
+    margin: 5px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 30px;
+    color: black;
+    font-size: 16px;
+}
